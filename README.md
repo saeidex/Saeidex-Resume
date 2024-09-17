@@ -1,9 +1,12 @@
 Deedy-Resume-Canva-Template
 =============================
 
-## [View original repo](https://github.com/deedy/deedy-resume)
+## View original repo [here](https://github.com/deedy/deedy-resume)
 
 ## Preview
 
-### OpenFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/OpenFonts/sample-image.png)
+### Base
+![deedy-resume](https://raw.githubusercontent.com/saeidex/Saeidex-Resume/main/Base.png)
+
+### Saeidex Resume
+![saeidex-resume](https://raw.githubusercontent.com/saeidex/Saeidex-Resume/main/Saeidex-Resume.png)
