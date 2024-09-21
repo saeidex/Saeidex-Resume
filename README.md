@@ -5,8 +5,8 @@ Deedy-Resume-Canva-Template
 
 ## Preview
 
-### Base
-![deedy-resume](https://raw.githubusercontent.com/saeidex/Saeidex-Resume/main/Base.png)
-
 ### Saeidex Resume
 ![saeidex-resume](https://raw.githubusercontent.com/saeidex/Saeidex-Resume/main/Saeidex-Resume.png)
+
+### Base
+![deedy-resume](https://raw.githubusercontent.com/saeidex/Saeidex-Resume/main/Base.png)
